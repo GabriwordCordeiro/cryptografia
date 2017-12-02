@@ -11,8 +11,7 @@
 	<iframe width="0" height="0" src="https://www.youtube.com/embed/NkKKmblqttw?start=64&rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
 	<title>Complete</title>
 </head>
-	<body>
-		
+	<body>		
 <?php
 
 	$text = $_POST['box'];
